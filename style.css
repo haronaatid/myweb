@@ -1,0 +1,61 @@
+/* Estil bàsic per a tota la pàgina */
+body {
+  front-family: Arial, sans-serif;
+  background-color: #FFD1DC;
+  color: #333;
+  line-height: 1,6;
+  margin: 20px;
+}
+/* Canvia el color de tots els paràgrafs a blau */
+
+p {
+  color: blue; 
+}
+h1 {
+  color: green;
+}
+h2 {
+  color: red;
+}
+h3 {
+  color: orange ;
+}
+h4 {
+  color: orange;
+}
+
+a{ color:red;
+  front-weight: bold;
+  font-size: 1.2em;
+  font-style: italic;
+}
+ table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  th, td {
+    border: 10px solid black;
+    padding: 8px;
+    text-align: left;
+     
+    body {
+    background: pink;
+}
+
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #17D4FE;
+    font-size: 60px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+   
+
+
+  }
+  
+
+
+
